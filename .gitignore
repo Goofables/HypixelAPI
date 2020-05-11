@@ -2,3 +2,4 @@ api*
 .idea
 apikeys.json
 venv
+sql.json

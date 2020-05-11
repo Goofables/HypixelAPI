@@ -1,0 +1,1390 @@
+{
+  "INK_SACK:3": {
+    "name": "Cocoa Beans",
+    "buyFromShop": 5,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "BROWN_MUSHROOM": {
+    "name": "Brown Mushroom",
+    "buyFromShop": 12,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "INK_SACK:4": {
+    "name": "Lapis",
+    "buyFromShop": -1,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "TARANTULA_WEB": {
+    "name": "Tarantula Web",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "CARROT_ITEM": {
+    "name": "Carrot",
+    "buyFromShop": 2.33,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_POTATO": {
+    "name": "Enchanted Potato",
+    "buyFromShop": 373.33,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SLIME_BALL": {
+    "name": "Enchanted Slime Ball",
+    "buyFromShop": 2240,
+    "sellToShop": 800,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RED_MUSHROOM": {
+    "name": "Enchanted Red Mushroom",
+    "buyFromShop": 1920,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GOLDEN_CARROT": {
+    "name": "Enchanted Golden Carrot",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RABBIT_HIDE": {
+    "name": "Enchanted Rabbit Hide",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BIRCH_LOG": {
+    "name": "Enchanted Birch Log",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GUNPOWDER": {
+    "name": "Enchanted Gunpowder",
+    "buyFromShop": 1600,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_MELON": {
+    "name": "Enchanted Melon",
+    "buyFromShop": 320,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SUGAR": {
+    "name": "Enchanted Sugar",
+    "buyFromShop": 800,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "CACTUS": {
+    "name": "Cactus",
+    "buyFromShop": -1,
+    "sellToShop": 1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BLAZE_ROD": {
+    "name": "Enchanted Blaze Rod",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CAKE": {
+    "name": "Enchanted Cake",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PUMPKIN": {
+    "name": "Pumpkin",
+    "buyFromShop": 8,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BROWN_MUSHROOM": {
+    "name": "Enchanted Brown Mushroom",
+    "buyFromShop": 1920,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "WHEAT": {
+    "name": "Wheat",
+    "buyFromShop": 2.33,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RAW_SALMON": {
+    "name": "Enchanted Raw Salmon",
+    "buyFromShop": 4800,
+    "sellToShop": 1600,
+    "recipe": {
+      "RAW_FISH:1": 160
+    },
+    "confirmed": false
+  },
+  "ENCHANTED_GLISTERING_MELON": {
+    "name": "Enchanted Glistering Melon",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PRISMARINE_SHARD": {
+    "name": "Prismarine Shard",
+    "buyFromShop": -1,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_EMERALD": {
+    "name": "Enchanted Emerald",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PROTECTOR_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SPIDER_EYE": {
+    "name": "Enchanted Spider Eye",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RED_MUSHROOM": {
+    "name": "Red Mushroom",
+    "buyFromShop": 12,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "MUTTON": {
+    "name": "Mutton",
+    "buyFromShop": -1,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_MELON_BLOCK": {
+    "name": "Enchanted Melon Block",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "DIAMOND": {
+    "name": "Diamond",
+    "buyFromShop": -1,
+    "sellToShop": 8.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "WISE_FRAGMENT": {
+    "name": "Wise Fragment",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "COBBLESTONE": {
+    "name": "Cobblestone",
+    "buyFromShop": 3,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_FISH": {
+    "name": "Raw Fish",
+    "buyFromShop": 20,
+    "sellToShop": 6.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SPIDER_EYE": {
+    "name": "Spider Eye",
+    "buyFromShop": 12,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PUFFERFISH": {
+    "name": "Enchanted Puffer Fish",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "POTATO_ITEM": {
+    "name": "Potato",
+    "buyFromShop": 2.33,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_HUGE_MUSHROOM_1": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COBBLESTONE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 480,
+    "sellToShop": 160,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_HUGE_MUSHROOM_2": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PORK": {
+    "name": "Raw Porkchop",
+    "buyFromShop": -1,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PRISMARINE_CRYSTALS": {
+    "name": "Prismarine Crystals",
+    "buyFromShop": -1,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ICE": {
+    "name": "Ice",
+    "buyFromShop": 1,
+    "sellToShop": 0.5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "HUGE_MUSHROOM_1": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "HUGE_MUSHROOM_2": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG_2:1": {
+    "name": "Dark Oak Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SNOW_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "STRING": {
+    "name": "String",
+    "buyFromShop": 10,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GOLDEN_TOOTH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RABBIT_FOOT": {
+    "name": "Rabbit's Foot",
+    "buyFromShop": 10,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "REDSTONE": {
+    "name": "Redstone",
+    "buyFromShop": -1,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CACTUS_GREEN": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 160,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CARROT_ON_A_STICK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_LAPIS_LAZULI_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COOKIE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_ENDSTONE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SAND": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 640,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_STRING": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1920,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "STRONG_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SLIME_BALL": {
+    "name": "Slime Ball",
+    "buyFromShop": 14,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SNOW_BALL": {
+    "name": "Snow Ball",
+    "buyFromShop": -1,
+    "sellToShop": 1.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_ACACIA_LOG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_EGG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SAND": {
+    "name": "Sand",
+    "buyFromShop": 4,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_CHICKEN": {
+    "name": "Raw Chicken",
+    "buyFromShop": -1,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_LAPIS_LAZULI": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 160,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GHAST_TEAR": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COCOA": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SEEDS": {
+    "name": "Seeds",
+    "buyFromShop": -1,
+    "sellToShop": 0.5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_LEATHER": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SPONGE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "HAY_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 21,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "FLINT": {
+    "name": "Flint",
+    "buyFromShop": 6,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "INK_SACK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SPRUCE_LOG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_ROTTEN_FLESH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1280,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "WOLF_TOOTH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GRILLED_PORK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_NETHER_STALK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_REDSTONE_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_QUARTZ_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 16,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GREEN_CANDY": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_REDSTONE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_REDSTONE_LAMP": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GRAVEL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 4.33,
+    "sellToShop": 3,
+    "recipe": {},
+    "confirmed": false
+  },
+  "MELON": {
+    "name": "Melon",
+    "buyFromShop": 2,
+    "sellToShop": 0.5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PACKED_ICE": {
+    "name": "Enchanted Packed Ice",
+    "buyFromShop": 25600,
+    "sellToShop": 4.5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_LAVA_BUCKET": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_FISH:3": {
+    "name": "Pufferfish",
+    "buyFromShop": 40,
+    "sellToShop": 15.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PRISMARINE_SHARD": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_IRON_BLOCK": {
+    "name": "Enchanted Iron Block",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CARROT_STICK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "BONE": {
+    "name": "Bone",
+    "buyFromShop": 8,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_FISH:2": {
+    "name": "Clownfish",
+    "buyFromShop": -1,
+    "sellToShop": 20.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_FISH:1": {
+    "name": "Raw Salmon",
+    "buyFromShop": 30,
+    "sellToShop": 10.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "REVENANT_FLESH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PORK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GLOWSTONE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "FEATHER": {
+    "name": "Feather",
+    "buyFromShop": -1,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "NETHERRACK": {
+    "name": "Netherrack",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SPONGE": {
+    "name": "Sponge",
+    "buyFromShop": -1,
+    "sellToShop": 50.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "BLAZE_ROD": {
+    "name": "Blaze Rod",
+    "buyFromShop": -1,
+    "sellToShop": 9.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_DARK_OAK_LOG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "YOUNG_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CLOWNFISH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GOLD": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RAW_CHICKEN": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_WATER_LILY": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG:1": {
+    "name": "Spruce Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "CATALYST": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG:3": {
+    "name": "Jungle Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG:2": {
+    "name": "Birch Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GLOWSTONE_DUST": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_INK_SACK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CACTUS": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SUGAR_CANE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 128000,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COOKED_SALMON": {
+    "name": "Enchanted Cooked Salmon",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SEEDS": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG": {
+    "name": "Oak Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GHAST_TEAR": {
+    "name": "Ghast Tear",
+    "buyFromShop": 200,
+    "sellToShop": 16.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "UNSTABLE_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_ENDER_PEARL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 200,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PURPLE_CANDY": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_FERMENTED_SPIDER_EYE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_GOLD_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_JUNGLE_LOG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_FLINT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 960,
+    "sellToShop": 640,
+    "recipe": {},
+    "confirmed": false
+  },
+  "IRON_INGOT": {
+    "name": "Iron Ingot",
+    "buyFromShop": 5.5,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_EMERALD_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CLAY_BALL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GLOWSTONE_DUST": {
+    "name": "Glowstone Dust",
+    "buyFromShop": -1,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GOLD_INGOT": {
+    "name": "Gold Ingot",
+    "buyFromShop": 6,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "REVENANT_VISCERA": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "TARANTULA_SILK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_MUTTON": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_IRON": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SUPER_COMPACTOR_3000": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SUPER_EGG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "STOCK_OF_STONKS": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_HAY_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BONE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1280,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PAPER": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_DIAMOND_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SUPERIOR_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "EMERALD": {
+    "name": "Emerald",
+    "buyFromShop": -1,
+    "sellToShop": 6.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RABBIT_FOOT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1600,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "HOT_POTATO_BOOK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_ICE": {
+    "name": "Enchanted Ice",
+    "buyFromShop": 160,
+    "sellToShop": 80,
+    "recipe": {},
+    "confirmed": false
+  },
+  "CLAY_BALL": {
+    "name": "Clay",
+    "buyFromShop": -1,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "OLD_FRAGMENT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "GREEN_GIFT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "PACKED_ICE": {
+    "name": "Packed Ice",
+    "buyFromShop": 9,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "WATER_LILY": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "HAMSTER_WHEEL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LOG_2": {
+    "name": "Acacia Wood",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_OBSIDIAN": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 1920,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COAL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1280,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "COAL": {
+    "name": "Coal",
+    "buyFromShop": 8,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_QUARTZ": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 640,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENDER_PEARL": {
+    "name": "Ender Pearl",
+    "buyFromShop": -1,
+    "sellToShop": 10.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COAL_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PRISMARINE_CRYSTALS": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 5,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_WET_SPONGE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RAW_FISH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 3200,
+    "sellToShop": 960,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENDER_STONE": {
+    "name": "Endstone",
+    "buyFromShop": 10,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "FOUL_FLESH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "QUARTZ": {
+    "name": "Quartz",
+    "buyFromShop": -1,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RAW_BEEF": {
+    "name": "Raw Beef",
+    "buyFromShop": -1,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_EYE_OF_ENDER": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SUGAR_CANE": {
+    "name": "Sugar Cane",
+    "buyFromShop": 5,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "MAGMA_CREAM": {
+    "name": "Magma Cream",
+    "buyFromShop": 20,
+    "sellToShop": 8.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RED_GIFT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RAW_BEEF": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_SLIME_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_FEATHER": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_OAK_LOG": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 800,
+    "sellToShop": 320,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RABBIT_HIDE": {
+    "name": "Rabbit Hide",
+    "buyFromShop": -1,
+    "sellToShop": 5.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "WHITE_GIFT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "RABBIT": {
+    "name": "Raw Rabbit",
+    "buyFromShop": -1,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SULPHUR": {
+    "name": "Gunpowder",
+    "buyFromShop": -1,
+    "sellToShop": 4.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "NETHER_STALK": {
+    "name": "Nether Wart",
+    "buyFromShop": 10,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CARROT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_PUMPKIN": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 1280,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ROTTEN_FLESH": {
+    "name": "Rotten Flesh",
+    "buyFromShop": 8,
+    "sellToShop": 2.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COOKED_FISH": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "OBSIDIAN": {
+    "name": "Obsidian",
+    "buyFromShop": 50,
+    "sellToShop": 12.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_MAGMA_CREAM": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_FIREWORK_ROCKET": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "LEATHER": {
+    "name": "Leather",
+    "buyFromShop": -1,
+    "sellToShop": 3.0,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_COOKED_MUTTON": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_RABBIT": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 640,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BREAD": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": 140,
+    "sellToShop": 60,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_CHARCOAL": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BLAZE_POWDER": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": 1440,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SUMMONING_EYE": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "SNOW_BLOCK": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_BAKED_POTATO": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "COMPACTOR": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  },
+  "ENCHANTED_DIAMOND": {
+    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "buyFromShop": -1,
+    "sellToShop": -1,
+    "recipe": {},
+    "confirmed": false
+  }
+}
