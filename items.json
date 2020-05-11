@@ -170,7 +170,7 @@
     "confirmed": false
   },
   "PROTECTOR_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Protector Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -261,7 +261,7 @@
     "confirmed": false
   },
   "ENCHANTED_COBBLESTONE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cobblestone",
     "buyFromShop": 480,
     "sellToShop": 160,
     "recipe": {},
@@ -317,7 +317,7 @@
     "confirmed": false
   },
   "ENCHANTED_SNOW_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Snow Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -331,7 +331,7 @@
     "confirmed": false
   },
   "GOLDEN_TOOTH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Golden Tooth",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -352,56 +352,56 @@
     "confirmed": false
   },
   "ENCHANTED_CACTUS_GREEN": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cactus Green",
     "buyFromShop": -1,
     "sellToShop": 160,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_CARROT_ON_A_STICK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Carrot On A Stick",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_LAPIS_LAZULI_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Lapis Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_COOKIE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cookie",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_ENDSTONE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Endstone",
     "buyFromShop": -1,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_SAND": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Sand",
     "buyFromShop": 640,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_STRING": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted String",
     "buyFromShop": 1920,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "STRONG_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Strong Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -422,14 +422,14 @@
     "confirmed": false
   },
   "ENCHANTED_ACACIA_LOG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Acacia Log",
     "buyFromShop": 800,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_EGG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Egg",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -450,21 +450,21 @@
     "confirmed": false
   },
   "ENCHANTED_LAPIS_LAZULI": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Lapis",
     "buyFromShop": -1,
     "sellToShop": 160,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_GHAST_TEAR": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Ghast Tear",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_COCOA": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cocoa",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -478,21 +478,21 @@
     "confirmed": false
   },
   "ENCHANTED_LEATHER": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Leather",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_SPONGE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Sponge",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "HAY_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Hay",
     "buyFromShop": 21,
     "sellToShop": -1,
     "recipe": {},
@@ -506,84 +506,84 @@
     "confirmed": false
   },
   "INK_SACK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Ink Sack",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_SPRUCE_LOG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Spruce Log",
     "buyFromShop": 800,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_ROTTEN_FLESH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Rotten Flesh",
     "buyFromShop": 1280,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "WOLF_TOOTH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Wolf Tooth",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_GRILLED_PORK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cooked Porkchop",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_NETHER_STALK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Netherwart",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_REDSTONE_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Redstone Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_QUARTZ_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Quartz Block",
     "buyFromShop": -1,
     "sellToShop": 16,
     "recipe": {},
     "confirmed": false
   },
   "GREEN_CANDY": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Green Candy",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_REDSTONE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Redstone",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_REDSTONE_LAMP": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Redstone Lamp",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "GRAVEL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Gravel",
     "buyFromShop": 4.33,
     "sellToShop": 3,
     "recipe": {},
@@ -604,7 +604,7 @@
     "confirmed": false
   },
   "ENCHANTED_LAVA_BUCKET": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Lava Bucket",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -618,7 +618,7 @@
     "confirmed": false
   },
   "ENCHANTED_PRISMARINE_SHARD": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Prismarine Shard",
     "buyFromShop": -1,
     "sellToShop": 5,
     "recipe": {},
@@ -632,7 +632,7 @@
     "confirmed": false
   },
   "ENCHANTED_CARROT_STICK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Carrot On A Stick",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -660,21 +660,21 @@
     "confirmed": false
   },
   "REVENANT_FLESH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Revenant Flesh",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_PORK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Porkchop",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_GLOWSTONE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Glowstone",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -709,42 +709,42 @@
     "confirmed": false
   },
   "ENCHANTED_DARK_OAK_LOG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Dark Oak Log",
     "buyFromShop": 800,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "YOUNG_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Young Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_CLOWNFISH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Clownfish",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_GOLD": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Gold",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_RAW_CHICKEN": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Raw Chicken",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_WATER_LILY": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Water Lily",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -758,7 +758,7 @@
     "confirmed": false
   },
   "CATALYST": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Catalyst",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -779,28 +779,28 @@
     "confirmed": false
   },
   "ENCHANTED_GLOWSTONE_DUST": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Glowstone Dust",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_INK_SACK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Ink Sack",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_CACTUS": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cactus",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_SUGAR_CANE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Sugar Cane",
     "buyFromShop": 128000,
     "sellToShop": -1,
     "recipe": {},
@@ -814,7 +814,7 @@
     "confirmed": false
   },
   "ENCHANTED_SEEDS": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Seeds",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -835,49 +835,49 @@
     "confirmed": false
   },
   "UNSTABLE_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Unstable Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_ENDER_PEARL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Ender Pearl",
     "buyFromShop": -1,
     "sellToShop": 200,
     "recipe": {},
     "confirmed": false
   },
   "PURPLE_CANDY": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Purple Candy",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_FERMENTED_SPIDER_EYE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Fermented Spider Eye",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_GOLD_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Gold Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_JUNGLE_LOG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Jungle Log",
     "buyFromShop": 800,
     "sellToShop": 320,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_FLINT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Flint",
     "buyFromShop": 960,
     "sellToShop": 640,
     "recipe": {},
@@ -891,14 +891,14 @@
     "confirmed": false
   },
   "ENCHANTED_EMERALD_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Emerald Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_CLAY_BALL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Clay",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -919,84 +919,84 @@
     "confirmed": false
   },
   "REVENANT_VISCERA": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Revenant Viscera",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "TARANTULA_SILK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Tarantula Silk",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_MUTTON": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Mutton",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_IRON": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Iron",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "SUPER_COMPACTOR_3000": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Super Compactor 3000",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "SUPER_EGG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Super Egg",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "STOCK_OF_STONKS": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Stock Of Stonks",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_HAY_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Hay",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_BONE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Bone",
     "buyFromShop": 1280,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_PAPER": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Paper",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_DIAMOND_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Diamond Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "SUPERIOR_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Superior Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1010,14 +1010,14 @@
     "confirmed": false
   },
   "ENCHANTED_RABBIT_FOOT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Rabbit Foot",
     "buyFromShop": 1600,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "HOT_POTATO_BOOK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Hot Potato Book",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1038,14 +1038,14 @@
     "confirmed": false
   },
   "OLD_FRAGMENT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Old Fragment",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "GREEN_GIFT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Green Gift",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1059,14 +1059,14 @@
     "confirmed": false
   },
   "WATER_LILY": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Water Lily",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "HAMSTER_WHEEL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Hamster Wheel",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1080,14 +1080,14 @@
     "confirmed": false
   },
   "ENCHANTED_OBSIDIAN": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Obsidian",
     "buyFromShop": -1,
     "sellToShop": 1920,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_COAL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Coal",
     "buyFromShop": 1280,
     "sellToShop": -1,
     "recipe": {},
@@ -1101,7 +1101,7 @@
     "confirmed": false
   },
   "ENCHANTED_QUARTZ": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Quartz",
     "buyFromShop": -1,
     "sellToShop": 640,
     "recipe": {},
@@ -1115,28 +1115,28 @@
     "confirmed": false
   },
   "ENCHANTED_COAL_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Coal Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_PRISMARINE_CRYSTALS": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Prismarine Crystals",
     "buyFromShop": -1,
     "sellToShop": 5,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_WET_SPONGE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Wet Sponge",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_RAW_FISH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Raw Cod",
     "buyFromShop": 3200,
     "sellToShop": 960,
     "recipe": {},
@@ -1150,7 +1150,7 @@
     "confirmed": false
   },
   "FOUL_FLESH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Foul Flesh",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1171,7 +1171,7 @@
     "confirmed": false
   },
   "ENCHANTED_EYE_OF_ENDER": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Eye Of Ender",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1192,35 +1192,35 @@
     "confirmed": false
   },
   "RED_GIFT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Red Gift",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_RAW_BEEF": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Raw Beef",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_SLIME_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Slime Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_FEATHER": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Feather",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_OAK_LOG": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Oak Log",
     "buyFromShop": 800,
     "sellToShop": 320,
     "recipe": {},
@@ -1234,7 +1234,7 @@
     "confirmed": false
   },
   "WHITE_GIFT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "White Gift",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1262,14 +1262,14 @@
     "confirmed": false
   },
   "ENCHANTED_CARROT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Carrot",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_PUMPKIN": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Pumpkin",
     "buyFromShop": 1280,
     "sellToShop": -1,
     "recipe": {},
@@ -1283,7 +1283,7 @@
     "confirmed": false
   },
   "ENCHANTED_COOKED_FISH": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cooked Cod",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1297,14 +1297,14 @@
     "confirmed": false
   },
   "ENCHANTED_MAGMA_CREAM": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Magma Cream",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_FIREWORK_ROCKET": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Fireworks",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
@@ -1318,70 +1318,70 @@
     "confirmed": false
   },
   "ENCHANTED_COOKED_MUTTON": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Cooked Mutton",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_RABBIT": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Rabbit",
     "buyFromShop": -1,
     "sellToShop": 640,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_BREAD": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Bread",
     "buyFromShop": 140,
     "sellToShop": 60,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_CHARCOAL": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Charcoal",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_BLAZE_POWDER": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Blaze Powder",
     "buyFromShop": -1,
     "sellToShop": 1440,
     "recipe": {},
     "confirmed": false
   },
   "SUMMONING_EYE": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Summoning Eye",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "SNOW_BLOCK": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Snow Block",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_BAKED_POTATO": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Baked Potato",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "COMPACTOR": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Compactor",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
     "confirmed": false
   },
   "ENCHANTED_DIAMOND": {
-    "name": "XXXXXXXXXXXXXXXXXXXX",
+    "name": "Enchanted Diamond",
     "buyFromShop": -1,
     "sellToShop": -1,
     "recipe": {},
