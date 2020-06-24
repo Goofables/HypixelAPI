@@ -1,0 +1,2540 @@
+{
+  "time": "wheat: [15, 15, 13, 13, 11, 11, 10, 10, 9, 9, 8]\npotato: [20, 20, 18, 18, 16, 16, 14, 14, 12, 12, 10]\ncarrot: [20, 20, 18, 18, 16, 16, 14, 14, 12, 12, 10]\nmelon: [30, 30, 28, 28, 26, 26, 23, 23, 20, 20, 16]\npumpkin: [40, 40, 37, 37, 34, 34, 30, 30, 25, 25, 20]\nmushroom: [30, 30, 28, 28, 26, 26, 23, 23, 20, 20, 16]\ncactus: [27, 27, 25, 25, 23, 23, 21, 21, 18, 18, 15]\ncocoa-beans: [27, 27, 25, 25, 23, 23, 21, 21, 18, 18, 15]\nsugar-cane: [27, 27, 25, 25, 23, 23, 21, 21, 18, 18, 15]\ncow: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\npig: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\nchicken: [26, 26, 24, 24, 22, 22, 20, 20, 18, 18, 15]\nsheep: [24, 24, 22, 22, 20, 20, 18, 18, 16, 16, 12]\nrabbit: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\ncobblestone: [14, 14, 12, 12, 10, 10, 9, 9, 8, 8, 7]\ncoal: [15, 15, 13, 13, 12, 12, 10, 10, 9, 9, 7]\niron: [17, 17, 15, 15, 14, 14, 12, 12, 10, 10, 8]\ngold: [22, 22, 20, 20, 18, 18, 16, 16, 14, 14, 11]\nemerald: [28, 28, 26, 26, 24, 24, 21, 21, 18, 18, 14]\ndiamond: [29, 29, 27, 27, 25, 25, 22, 22, 19, 19, 15]\nlapis: [29, 29, 27, 27, 25, 25, 23, 23, 21, 21, 18]\nredstone: [29, 29, 27, 27, 25, 25, 23, 23, 21, 21, 18]\nquartz: [25, 25, 23, 23, 21, 21, 19, 19, 16, 16, 13]\nend-stone: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 13]\nglowstone: [25, 25, 23, 23, 21, 21, 19, 19, 16, 16, 13]\nobsidian: [45, 45, 42, 42, 39, 39, 35, 35, 30, 30, 24]\ngravel: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 13]\nsand: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 13]\nclay: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 13]\nice: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 13]\nzombie: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\nskeleton: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\ncave-spider: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\nspider: [26, 26, 24, 24, 22, 22, 20, 20, 17, 17, 13]\nenderman: [32, 32, 30, 30, 28, 28, 25, 25, 22, 22, 18]\ncreeper: [27, 27, 25, 25, 23, 23, 21, 21, 18, 18, 14]\nblaze: [30, 30, 28, 28, 26, 26, 23, 23, 19, 19, 15]\nghast: [50, 50, 47, 47, 44, 44, 41, 41, 38, 38, 32]\nslime: [26, 26, 24, 24, 22, 22, 19, 19, 16, 16, 12]\nmagma-cube: [32, 32, 30, 30, 28, 28, 25, 25, 22, 22, 18]\nfishing: [90, 86, 82, 82, 77, 77, 71, 71, 60, 60, 40]\noak: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\nbirch: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\nacacia: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\ndark-oak: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\njungle: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\nspruce: [48, 48, 45, 45, 42, 42, 38, 38, 33, 33, 27]\nnether-wart: [50, 50, 47, 47, 44, 44, 41, 41, 38, 38, 32]\nflower: [50, 49, 48, 47, 46, 44, 42, Unknown, Unknown, Unknown, Unknown]",
+  "storage": "wheat: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\npotato: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncarrot: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nmelon: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\npumpkin: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nmushroom: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\ncactus: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncocoa-beans: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nsugar-cane: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncow: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\npig: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nchicken: [192, 320, 320, 448, 448, 576, 576, 768, 768, 960, 960]\nsheep: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\nrabbit: [192, 320, 320, 448, 448, 576, 576, 768, 768, 960, 960]\ncobblestone: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncoal: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\niron: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ngold: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nemerald: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ndiamond: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nlapis: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nredstone: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nquartz: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nend-stone: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nglowstone: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nobsidian: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ngravel: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\nsand: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nclay: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nice: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nzombie: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nskeleton: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncave-spider: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\nspider: [128, 256, 256, 384, 384, 576, 576, 768, 768, 960, 960]\nenderman: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ncreeper: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nblaze: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nghast: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nslime: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nmagma-cube: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nfishing: [640, 640, 640, 704, 704, 768, 768, 832, 832, 896, 960]\noak: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nbirch: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nacacia: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\ndark-oak: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\njungle: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nspruce: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nnether-wart: [64, 192, 192, 384, 384, 576, 576, 768, 768, 960, 960]\nflower: [960, 960, 960, 960, 960, 960, 960, 960, 960, 960, 960]",
+  "resources": "wheat: [wheat, seeds]\npotato: [potato]\ncarrot: [carrot]\nmelon: [melon]\npumpkin: [pumpkin]\nmushroom: [red-mushroom, brown-mushroom]\ncactus: [cactus]\ncocoa-beans: [cocoa-beans]\nsugar-cane: [sugar-cane]\ncow: [raw-beef, leather]\npig: [raw-porkchop]\nchicken: [raw-chicken, feather]\nsheep: [white-wool, raw-mutton]\nrabbit: [raw-rabbit, rabbit-hide, rabbits-foot]\ncobblestone: [cobblestone]\ncoal: [coal]\niron: [iron-ingot]\ngold: [gold-ingot]\nemerald: [emerald]\ndiamond: [diamond]\nlapis: [lapis-lazuli]\nredstone: [redstone-dust]\nquartz: [nether-quartz]\nend-stone: [end-stone]\nglowstone: [glowstone-dust]\nobsidian: [obsidian]\ngravel: [gravel, flint]\nsand: [sand]\nclay: [clay]\nice: [ice]\nzombie: [rotten-flesh, poisonous-potato]\nskeleton: [bone]\ncave-spider: [string, spider-eye]\nspider: [string, spider-eye]\nenderman: [ender-pearl]\ncreeper: [gunpowder]\nblaze: [blaze-rod]\nghast: [ghast-tear]\nslime: [slime-ball]\nmagma-cube: [magma-cream]\nfishing: [raw-fish, pufferfish, raw-salmon, clownfish, sponge, prismarine-shard, prismarine-crystals]\noak: [oak-wood]\nbirch: [birch-wood]\nacacia: [acacia-wood]\ndark-oak: [dark-oak-wood]\njungle: [jungle-wood]\nspruce: [spruce-wood]\nnether-wart: [nether-wart]\nflower: [any-flower]",
+  "wheat": {
+    "resources": {
+      "WHEAT": 1,
+      "SEEDS": 1
+    },
+    "levels": {
+      "0": {
+        "time": 15,
+        "storage": 128
+      },
+      "1": {
+        "time": 15,
+        "storage": 256
+      },
+      "2": {
+        "time": 13,
+        "storage": 256
+      },
+      "3": {
+        "time": 13,
+        "storage": 384
+      },
+      "4": {
+        "time": 11,
+        "storage": 384
+      },
+      "5": {
+        "time": 11,
+        "storage": 576
+      },
+      "6": {
+        "time": 10,
+        "storage": 576
+      },
+      "7": {
+        "time": 10,
+        "storage": 768
+      },
+      "8": {
+        "time": 9,
+        "storage": 768
+      },
+      "9": {
+        "time": 9,
+        "storage": 960
+      },
+      "10": {
+        "time": 8,
+        "storage": 960
+      }
+    }
+  },
+  "potato": {
+    "resources": {
+      "POTATO_ITEM": 1
+    },
+    "levels": {
+      "0": {
+        "time": 20,
+        "storage": 64
+      },
+      "1": {
+        "time": 20,
+        "storage": 192
+      },
+      "2": {
+        "time": 18,
+        "storage": 192
+      },
+      "3": {
+        "time": 18,
+        "storage": 384
+      },
+      "4": {
+        "time": 16,
+        "storage": 384
+      },
+      "5": {
+        "time": 16,
+        "storage": 576
+      },
+      "6": {
+        "time": 14,
+        "storage": 576
+      },
+      "7": {
+        "time": 14,
+        "storage": 768
+      },
+      "8": {
+        "time": 12,
+        "storage": 768
+      },
+      "9": {
+        "time": 12,
+        "storage": 960
+      },
+      "10": {
+        "time": 10,
+        "storage": 960
+      }
+    }
+  },
+  "carrot": {
+    "resources": {
+      "CARROT_ITEM": 1
+    },
+    "levels": {
+      "0": {
+        "time": 20,
+        "storage": 64
+      },
+      "1": {
+        "time": 20,
+        "storage": 192
+      },
+      "2": {
+        "time": 18,
+        "storage": 192
+      },
+      "3": {
+        "time": 18,
+        "storage": 384
+      },
+      "4": {
+        "time": 16,
+        "storage": 384
+      },
+      "5": {
+        "time": 16,
+        "storage": 576
+      },
+      "6": {
+        "time": 14,
+        "storage": 576
+      },
+      "7": {
+        "time": 14,
+        "storage": 768
+      },
+      "8": {
+        "time": 12,
+        "storage": 768
+      },
+      "9": {
+        "time": 12,
+        "storage": 960
+      },
+      "10": {
+        "time": 10,
+        "storage": 960
+      }
+    }
+  },
+  "melon": {
+    "resources": {
+      "MELON": 1
+    },
+    "levels": {
+      "0": {
+        "time": 30,
+        "storage": 64
+      },
+      "1": {
+        "time": 30,
+        "storage": 192
+      },
+      "2": {
+        "time": 28,
+        "storage": 192
+      },
+      "3": {
+        "time": 28,
+        "storage": 384
+      },
+      "4": {
+        "time": 26,
+        "storage": 384
+      },
+      "5": {
+        "time": 26,
+        "storage": 576
+      },
+      "6": {
+        "time": 23,
+        "storage": 576
+      },
+      "7": {
+        "time": 23,
+        "storage": 768
+      },
+      "8": {
+        "time": 20,
+        "storage": 768
+      },
+      "9": {
+        "time": 20,
+        "storage": 960
+      },
+      "10": {
+        "time": 16,
+        "storage": 960
+      }
+    }
+  },
+  "pumpkin": {
+    "resources": {
+      "PUMPKIN": 1
+    },
+    "levels": {
+      "0": {
+        "time": 40,
+        "storage": 64
+      },
+      "1": {
+        "time": 40,
+        "storage": 192
+      },
+      "2": {
+        "time": 37,
+        "storage": 192
+      },
+      "3": {
+        "time": 37,
+        "storage": 384
+      },
+      "4": {
+        "time": 34,
+        "storage": 384
+      },
+      "5": {
+        "time": 34,
+        "storage": 576
+      },
+      "6": {
+        "time": 30,
+        "storage": 576
+      },
+      "7": {
+        "time": 30,
+        "storage": 768
+      },
+      "8": {
+        "time": 25,
+        "storage": 768
+      },
+      "9": {
+        "time": 25,
+        "storage": 960
+      },
+      "10": {
+        "time": 20,
+        "storage": 960
+      }
+    }
+  },
+  "mushroom": {
+    "resources": {
+      "RED_MUSHROOM": 1,
+      "BROWN_MUSHROOM": 1
+    },
+    "levels": {
+      "0": {
+        "time": 30,
+        "storage": 128
+      },
+      "1": {
+        "time": 30,
+        "storage": 256
+      },
+      "2": {
+        "time": 28,
+        "storage": 256
+      },
+      "3": {
+        "time": 28,
+        "storage": 384
+      },
+      "4": {
+        "time": 26,
+        "storage": 384
+      },
+      "5": {
+        "time": 26,
+        "storage": 576
+      },
+      "6": {
+        "time": 23,
+        "storage": 576
+      },
+      "7": {
+        "time": 23,
+        "storage": 768
+      },
+      "8": {
+        "time": 20,
+        "storage": 768
+      },
+      "9": {
+        "time": 20,
+        "storage": 960
+      },
+      "10": {
+        "time": 16,
+        "storage": 960
+      }
+    }
+  },
+  "cactus": {
+    "resources": {
+      "CACTUS": 1
+    },
+    "levels": {
+      "0": {
+        "time": 27,
+        "storage": 64
+      },
+      "1": {
+        "time": 27,
+        "storage": 192
+      },
+      "2": {
+        "time": 25,
+        "storage": 192
+      },
+      "3": {
+        "time": 25,
+        "storage": 384
+      },
+      "4": {
+        "time": 23,
+        "storage": 384
+      },
+      "5": {
+        "time": 23,
+        "storage": 576
+      },
+      "6": {
+        "time": 21,
+        "storage": 576
+      },
+      "7": {
+        "time": 21,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "cocoa-beans": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "cocoa_beans": 1
+    },
+    "levels": {
+      "0": {
+        "time": 27,
+        "storage": 64
+      },
+      "1": {
+        "time": 27,
+        "storage": 192
+      },
+      "2": {
+        "time": 25,
+        "storage": 192
+      },
+      "3": {
+        "time": 25,
+        "storage": 384
+      },
+      "4": {
+        "time": 23,
+        "storage": 384
+      },
+      "5": {
+        "time": 23,
+        "storage": 576
+      },
+      "6": {
+        "time": 21,
+        "storage": 576
+      },
+      "7": {
+        "time": 21,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "sugar-cane": {
+    "resources": {
+      "SUGAR_CANE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 27,
+        "storage": 64
+      },
+      "1": {
+        "time": 27,
+        "storage": 192
+      },
+      "2": {
+        "time": 25,
+        "storage": 192
+      },
+      "3": {
+        "time": 25,
+        "storage": 384
+      },
+      "4": {
+        "time": 23,
+        "storage": 384
+      },
+      "5": {
+        "time": 23,
+        "storage": 576
+      },
+      "6": {
+        "time": 21,
+        "storage": 576
+      },
+      "7": {
+        "time": 21,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "cow": {
+    "resources": {
+      "RAW_BEEF": 1,
+      "LEATHER": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 128
+      },
+      "1": {
+        "time": 26,
+        "storage": 256
+      },
+      "2": {
+        "time": 24,
+        "storage": 256
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "pig": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "raw_porkchop": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "chicken": {
+    "resources": {
+      "RAW_CHICKEN": 1,
+      "FEATHER": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 192
+      },
+      "1": {
+        "time": 26,
+        "storage": 320
+      },
+      "2": {
+        "time": 24,
+        "storage": 320
+      },
+      "3": {
+        "time": 24,
+        "storage": 448
+      },
+      "4": {
+        "time": 22,
+        "storage": 448
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "sheep": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "white_wool": 1,
+      "raw_mutton": 1
+    },
+    "levels": {
+      "0": {
+        "time": 24,
+        "storage": 128
+      },
+      "1": {
+        "time": 24,
+        "storage": 256
+      },
+      "2": {
+        "time": 22,
+        "storage": 256
+      },
+      "3": {
+        "time": 22,
+        "storage": 384
+      },
+      "4": {
+        "time": 20,
+        "storage": 384
+      },
+      "5": {
+        "time": 20,
+        "storage": 576
+      },
+      "6": {
+        "time": 18,
+        "storage": 576
+      },
+      "7": {
+        "time": 18,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 12,
+        "storage": 960
+      }
+    }
+  },
+  "rabbit": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "raw_rabbit": 1,
+      "RABBIT_HIDE": 1,
+      "rabbits_foot": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 192
+      },
+      "1": {
+        "time": 26,
+        "storage": 320
+      },
+      "2": {
+        "time": 24,
+        "storage": 320
+      },
+      "3": {
+        "time": 24,
+        "storage": 448
+      },
+      "4": {
+        "time": 22,
+        "storage": 448
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "cobblestone": {
+    "resources": {
+      "COBBLESTONE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 14,
+        "storage": 64
+      },
+      "1": {
+        "time": 14,
+        "storage": 192
+      },
+      "2": {
+        "time": 12,
+        "storage": 192
+      },
+      "3": {
+        "time": 12,
+        "storage": 384
+      },
+      "4": {
+        "time": 10,
+        "storage": 384
+      },
+      "5": {
+        "time": 10,
+        "storage": 576
+      },
+      "6": {
+        "time": 9,
+        "storage": 576
+      },
+      "7": {
+        "time": 9,
+        "storage": 768
+      },
+      "8": {
+        "time": 8,
+        "storage": 768
+      },
+      "9": {
+        "time": 8,
+        "storage": 960
+      },
+      "10": {
+        "time": 7,
+        "storage": 960
+      }
+    }
+  },
+  "coal": {
+    "resources": {
+      "COAL": 1
+    },
+    "levels": {
+      "0": {
+        "time": 15,
+        "storage": 64
+      },
+      "1": {
+        "time": 15,
+        "storage": 192
+      },
+      "2": {
+        "time": 13,
+        "storage": 192
+      },
+      "3": {
+        "time": 13,
+        "storage": 384
+      },
+      "4": {
+        "time": 12,
+        "storage": 384
+      },
+      "5": {
+        "time": 12,
+        "storage": 576
+      },
+      "6": {
+        "time": 10,
+        "storage": 576
+      },
+      "7": {
+        "time": 10,
+        "storage": 768
+      },
+      "8": {
+        "time": 9,
+        "storage": 768
+      },
+      "9": {
+        "time": 9,
+        "storage": 960
+      },
+      "10": {
+        "time": 7,
+        "storage": 960
+      }
+    }
+  },
+  "iron": {
+    "resources": {
+      "IRON_INGOT": 1
+    },
+    "levels": {
+      "0": {
+        "time": 17,
+        "storage": 64
+      },
+      "1": {
+        "time": 17,
+        "storage": 192
+      },
+      "2": {
+        "time": 15,
+        "storage": 192
+      },
+      "3": {
+        "time": 15,
+        "storage": 384
+      },
+      "4": {
+        "time": 14,
+        "storage": 384
+      },
+      "5": {
+        "time": 14,
+        "storage": 576
+      },
+      "6": {
+        "time": 12,
+        "storage": 576
+      },
+      "7": {
+        "time": 12,
+        "storage": 768
+      },
+      "8": {
+        "time": 10,
+        "storage": 768
+      },
+      "9": {
+        "time": 10,
+        "storage": 960
+      },
+      "10": {
+        "time": 8,
+        "storage": 960
+      }
+    }
+  },
+  "gold": {
+    "resources": {
+      "GOLD_INGOT": 1
+    },
+    "levels": {
+      "0": {
+        "time": 22,
+        "storage": 64
+      },
+      "1": {
+        "time": 22,
+        "storage": 192
+      },
+      "2": {
+        "time": 20,
+        "storage": 192
+      },
+      "3": {
+        "time": 20,
+        "storage": 384
+      },
+      "4": {
+        "time": 18,
+        "storage": 384
+      },
+      "5": {
+        "time": 18,
+        "storage": 576
+      },
+      "6": {
+        "time": 16,
+        "storage": 576
+      },
+      "7": {
+        "time": 16,
+        "storage": 768
+      },
+      "8": {
+        "time": 14,
+        "storage": 768
+      },
+      "9": {
+        "time": 14,
+        "storage": 960
+      },
+      "10": {
+        "time": 11,
+        "storage": 960
+      }
+    }
+  },
+  "emerald": {
+    "resources": {
+      "EMERALD": 1
+    },
+    "levels": {
+      "0": {
+        "time": 28,
+        "storage": 64
+      },
+      "1": {
+        "time": 28,
+        "storage": 192
+      },
+      "2": {
+        "time": 26,
+        "storage": 192
+      },
+      "3": {
+        "time": 26,
+        "storage": 384
+      },
+      "4": {
+        "time": 24,
+        "storage": 384
+      },
+      "5": {
+        "time": 24,
+        "storage": 576
+      },
+      "6": {
+        "time": 21,
+        "storage": 576
+      },
+      "7": {
+        "time": 21,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 14,
+        "storage": 960
+      }
+    }
+  },
+  "diamond": {
+    "resources": {
+      "DIAMOND": 1
+    },
+    "levels": {
+      "0": {
+        "time": 29,
+        "storage": 64
+      },
+      "1": {
+        "time": 29,
+        "storage": 192
+      },
+      "2": {
+        "time": 27,
+        "storage": 192
+      },
+      "3": {
+        "time": 27,
+        "storage": 384
+      },
+      "4": {
+        "time": 25,
+        "storage": 384
+      },
+      "5": {
+        "time": 25,
+        "storage": 576
+      },
+      "6": {
+        "time": 22,
+        "storage": 576
+      },
+      "7": {
+        "time": 22,
+        "storage": 768
+      },
+      "8": {
+        "time": 19,
+        "storage": 768
+      },
+      "9": {
+        "time": 19,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "lapis": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "lapis_lazuli": 1
+    },
+    "levels": {
+      "0": {
+        "time": 29,
+        "storage": 64
+      },
+      "1": {
+        "time": 29,
+        "storage": 192
+      },
+      "2": {
+        "time": 27,
+        "storage": 192
+      },
+      "3": {
+        "time": 27,
+        "storage": 384
+      },
+      "4": {
+        "time": 25,
+        "storage": 384
+      },
+      "5": {
+        "time": 25,
+        "storage": 576
+      },
+      "6": {
+        "time": 23,
+        "storage": 576
+      },
+      "7": {
+        "time": 23,
+        "storage": 768
+      },
+      "8": {
+        "time": 21,
+        "storage": 768
+      },
+      "9": {
+        "time": 21,
+        "storage": 960
+      },
+      "10": {
+        "time": 18,
+        "storage": 960
+      }
+    }
+  },
+  "redstone": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "redstone_dust": 1
+    },
+    "levels": {
+      "0": {
+        "time": 29,
+        "storage": 64
+      },
+      "1": {
+        "time": 29,
+        "storage": 192
+      },
+      "2": {
+        "time": 27,
+        "storage": 192
+      },
+      "3": {
+        "time": 27,
+        "storage": 384
+      },
+      "4": {
+        "time": 25,
+        "storage": 384
+      },
+      "5": {
+        "time": 25,
+        "storage": 576
+      },
+      "6": {
+        "time": 23,
+        "storage": 576
+      },
+      "7": {
+        "time": 23,
+        "storage": 768
+      },
+      "8": {
+        "time": 21,
+        "storage": 768
+      },
+      "9": {
+        "time": 21,
+        "storage": 960
+      },
+      "10": {
+        "time": 18,
+        "storage": 960
+      }
+    }
+  },
+  "quartz": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "nether_quartz": 1
+    },
+    "levels": {
+      "0": {
+        "time": 25,
+        "storage": 64
+      },
+      "1": {
+        "time": 25,
+        "storage": 192
+      },
+      "2": {
+        "time": 23,
+        "storage": 192
+      },
+      "3": {
+        "time": 23,
+        "storage": 384
+      },
+      "4": {
+        "time": 21,
+        "storage": 384
+      },
+      "5": {
+        "time": 21,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "end-stone": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "end_stone": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "glowstone": {
+    "resources": {
+      "GLOWSTONE_DUST": 1
+    },
+    "levels": {
+      "0": {
+        "time": 25,
+        "storage": 64
+      },
+      "1": {
+        "time": 25,
+        "storage": 192
+      },
+      "2": {
+        "time": 23,
+        "storage": 192
+      },
+      "3": {
+        "time": 23,
+        "storage": 384
+      },
+      "4": {
+        "time": 21,
+        "storage": 384
+      },
+      "5": {
+        "time": 21,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "obsidian": {
+    "resources": {
+      "OBSIDIAN": 1
+    },
+    "levels": {
+      "0": {
+        "time": 45,
+        "storage": 64
+      },
+      "1": {
+        "time": 45,
+        "storage": 192
+      },
+      "2": {
+        "time": 42,
+        "storage": 192
+      },
+      "3": {
+        "time": 42,
+        "storage": 384
+      },
+      "4": {
+        "time": 39,
+        "storage": 384
+      },
+      "5": {
+        "time": 39,
+        "storage": 576
+      },
+      "6": {
+        "time": 35,
+        "storage": 576
+      },
+      "7": {
+        "time": 35,
+        "storage": 768
+      },
+      "8": {
+        "time": 30,
+        "storage": 768
+      },
+      "9": {
+        "time": 30,
+        "storage": 960
+      },
+      "10": {
+        "time": 24,
+        "storage": 960
+      }
+    }
+  },
+  "gravel": {
+    "resources": {
+      "GRAVEL": 1,
+      "FLINT": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 128
+      },
+      "1": {
+        "time": 26,
+        "storage": 256
+      },
+      "2": {
+        "time": 24,
+        "storage": 256
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "sand": {
+    "resources": {
+      "SAND": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "clay": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "clay": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "ice": {
+    "resources": {
+      "ICE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "zombie": {
+    "resources": {
+      "ROTTEN_FLESH": 1,
+      "POISONOUS_POTATO": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "skeleton": {
+    "resources": {
+      "BONE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "cave-spider": {
+    "resources": {
+      "STRING": 1,
+      "SPIDER_EYE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 128
+      },
+      "1": {
+        "time": 26,
+        "storage": 256
+      },
+      "2": {
+        "time": 24,
+        "storage": 256
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "spider": {
+    "resources": {
+      "STRING": 1,
+      "SPIDER_EYE": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 128
+      },
+      "1": {
+        "time": 26,
+        "storage": 256
+      },
+      "2": {
+        "time": 24,
+        "storage": 256
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 20,
+        "storage": 576
+      },
+      "7": {
+        "time": 20,
+        "storage": 768
+      },
+      "8": {
+        "time": 17,
+        "storage": 768
+      },
+      "9": {
+        "time": 17,
+        "storage": 960
+      },
+      "10": {
+        "time": 13,
+        "storage": 960
+      }
+    }
+  },
+  "enderman": {
+    "resources": {
+      "ENDER_PEARL": 1
+    },
+    "levels": {
+      "0": {
+        "time": 32,
+        "storage": 64
+      },
+      "1": {
+        "time": 32,
+        "storage": 192
+      },
+      "2": {
+        "time": 30,
+        "storage": 192
+      },
+      "3": {
+        "time": 30,
+        "storage": 384
+      },
+      "4": {
+        "time": 28,
+        "storage": 384
+      },
+      "5": {
+        "time": 28,
+        "storage": 576
+      },
+      "6": {
+        "time": 25,
+        "storage": 576
+      },
+      "7": {
+        "time": 25,
+        "storage": 768
+      },
+      "8": {
+        "time": 22,
+        "storage": 768
+      },
+      "9": {
+        "time": 22,
+        "storage": 960
+      },
+      "10": {
+        "time": 18,
+        "storage": 960
+      }
+    }
+  },
+  "creeper": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "gunpowder": 1
+    },
+    "levels": {
+      "0": {
+        "time": 27,
+        "storage": 64
+      },
+      "1": {
+        "time": 27,
+        "storage": 192
+      },
+      "2": {
+        "time": 25,
+        "storage": 192
+      },
+      "3": {
+        "time": 25,
+        "storage": 384
+      },
+      "4": {
+        "time": 23,
+        "storage": 384
+      },
+      "5": {
+        "time": 23,
+        "storage": 576
+      },
+      "6": {
+        "time": 21,
+        "storage": 576
+      },
+      "7": {
+        "time": 21,
+        "storage": 768
+      },
+      "8": {
+        "time": 18,
+        "storage": 768
+      },
+      "9": {
+        "time": 18,
+        "storage": 960
+      },
+      "10": {
+        "time": 14,
+        "storage": 960
+      }
+    }
+  },
+  "blaze": {
+    "resources": {
+      "BLAZE_ROD": 1
+    },
+    "levels": {
+      "0": {
+        "time": 30,
+        "storage": 64
+      },
+      "1": {
+        "time": 30,
+        "storage": 192
+      },
+      "2": {
+        "time": 28,
+        "storage": 192
+      },
+      "3": {
+        "time": 28,
+        "storage": 384
+      },
+      "4": {
+        "time": 26,
+        "storage": 384
+      },
+      "5": {
+        "time": 26,
+        "storage": 576
+      },
+      "6": {
+        "time": 23,
+        "storage": 576
+      },
+      "7": {
+        "time": 23,
+        "storage": 768
+      },
+      "8": {
+        "time": 19,
+        "storage": 768
+      },
+      "9": {
+        "time": 19,
+        "storage": 960
+      },
+      "10": {
+        "time": 15,
+        "storage": 960
+      }
+    }
+  },
+  "ghast": {
+    "resources": {
+      "GHAST_TEAR": 1
+    },
+    "levels": {
+      "0": {
+        "time": 50,
+        "storage": 64
+      },
+      "1": {
+        "time": 50,
+        "storage": 192
+      },
+      "2": {
+        "time": 47,
+        "storage": 192
+      },
+      "3": {
+        "time": 47,
+        "storage": 384
+      },
+      "4": {
+        "time": 44,
+        "storage": 384
+      },
+      "5": {
+        "time": 44,
+        "storage": 576
+      },
+      "6": {
+        "time": 41,
+        "storage": 576
+      },
+      "7": {
+        "time": 41,
+        "storage": 768
+      },
+      "8": {
+        "time": 38,
+        "storage": 768
+      },
+      "9": {
+        "time": 38,
+        "storage": 960
+      },
+      "10": {
+        "time": 32,
+        "storage": 960
+      }
+    }
+  },
+  "slime": {
+    "resources": {
+      "SLIME_BALL": 1
+    },
+    "levels": {
+      "0": {
+        "time": 26,
+        "storage": 64
+      },
+      "1": {
+        "time": 26,
+        "storage": 192
+      },
+      "2": {
+        "time": 24,
+        "storage": 192
+      },
+      "3": {
+        "time": 24,
+        "storage": 384
+      },
+      "4": {
+        "time": 22,
+        "storage": 384
+      },
+      "5": {
+        "time": 22,
+        "storage": 576
+      },
+      "6": {
+        "time": 19,
+        "storage": 576
+      },
+      "7": {
+        "time": 19,
+        "storage": 768
+      },
+      "8": {
+        "time": 16,
+        "storage": 768
+      },
+      "9": {
+        "time": 16,
+        "storage": 960
+      },
+      "10": {
+        "time": 12,
+        "storage": 960
+      }
+    }
+  },
+  "magma-cube": {
+    "resources": {
+      "MAGMA_CREAM": 1
+    },
+    "levels": {
+      "0": {
+        "time": 32,
+        "storage": 64
+      },
+      "1": {
+        "time": 32,
+        "storage": 192
+      },
+      "2": {
+        "time": 30,
+        "storage": 192
+      },
+      "3": {
+        "time": 30,
+        "storage": 384
+      },
+      "4": {
+        "time": 28,
+        "storage": 384
+      },
+      "5": {
+        "time": 28,
+        "storage": 576
+      },
+      "6": {
+        "time": 25,
+        "storage": 576
+      },
+      "7": {
+        "time": 25,
+        "storage": 768
+      },
+      "8": {
+        "time": 22,
+        "storage": 768
+      },
+      "9": {
+        "time": 22,
+        "storage": 960
+      },
+      "10": {
+        "time": 18,
+        "storage": 960
+      }
+    }
+  },
+  "fishing": {
+    "resources": {
+      "RAW_FISH": 1,
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "pufferfish": 1,
+      "raw_salmon": 1,
+      "clownfish": 1,
+      "SPONGE": 1,
+      "PRISMARINE_SHARD": 1,
+      "PRISMARINE_CRYSTALS": 1
+    },
+    "levels": {
+      "0": {
+        "time": 90,
+        "storage": 640
+      },
+      "1": {
+        "time": 86,
+        "storage": 640
+      },
+      "2": {
+        "time": 82,
+        "storage": 640
+      },
+      "3": {
+        "time": 82,
+        "storage": 704
+      },
+      "4": {
+        "time": 77,
+        "storage": 704
+      },
+      "5": {
+        "time": 77,
+        "storage": 768
+      },
+      "6": {
+        "time": 71,
+        "storage": 768
+      },
+      "7": {
+        "time": 71,
+        "storage": 832
+      },
+      "8": {
+        "time": 60,
+        "storage": 832
+      },
+      "9": {
+        "time": 60,
+        "storage": 896
+      },
+      "10": {
+        "time": 40,
+        "storage": 960
+      }
+    }
+  },
+  "oak": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "oak_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "birch": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "birch_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "acacia": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "acacia_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "dark-oak": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "dark_oak_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "jungle": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "jungle_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "spruce": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "spruce_wood": 1
+    },
+    "levels": {
+      "0": {
+        "time": 48,
+        "storage": 64
+      },
+      "1": {
+        "time": 48,
+        "storage": 192
+      },
+      "2": {
+        "time": 45,
+        "storage": 192
+      },
+      "3": {
+        "time": 45,
+        "storage": 384
+      },
+      "4": {
+        "time": 42,
+        "storage": 384
+      },
+      "5": {
+        "time": 42,
+        "storage": 576
+      },
+      "6": {
+        "time": 38,
+        "storage": 576
+      },
+      "7": {
+        "time": 38,
+        "storage": 768
+      },
+      "8": {
+        "time": 33,
+        "storage": 768
+      },
+      "9": {
+        "time": 33,
+        "storage": 960
+      },
+      "10": {
+        "time": 27,
+        "storage": 960
+      }
+    }
+  },
+  "nether-wart": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "nether_wart": 1
+    },
+    "levels": {
+      "0": {
+        "time": 50,
+        "storage": 64
+      },
+      "1": {
+        "time": 50,
+        "storage": 192
+      },
+      "2": {
+        "time": 47,
+        "storage": 192
+      },
+      "3": {
+        "time": 47,
+        "storage": 384
+      },
+      "4": {
+        "time": 44,
+        "storage": 384
+      },
+      "5": {
+        "time": 44,
+        "storage": 576
+      },
+      "6": {
+        "time": 41,
+        "storage": 576
+      },
+      "7": {
+        "time": 41,
+        "storage": 768
+      },
+      "8": {
+        "time": 38,
+        "storage": 768
+      },
+      "9": {
+        "time": 38,
+        "storage": 960
+      },
+      "10": {
+        "time": 32,
+        "storage": 960
+      }
+    }
+  },
+  "flower": {
+    "resources": {
+      "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX": -1,
+      "any_flower": 1
+    },
+    "levels": {
+      "0": {
+        "time": 50,
+        "storage": 960
+      },
+      "1": {
+        "time": 49,
+        "storage": 960
+      },
+      "2": {
+        "time": 48,
+        "storage": 960
+      },
+      "3": {
+        "time": 47,
+        "storage": 960
+      },
+      "4": {
+        "time": 46,
+        "storage": 960
+      },
+      "5": {
+        "time": 44,
+        "storage": 960
+      },
+      "6": {
+        "time": 42,
+        "storage": 960
+      },
+      "7": {
+        "time": -1,
+        "storage": 960
+      },
+      "8": {
+        "time": -1,
+        "storage": 960
+      },
+      "9": {
+        "time": -1,
+        "storage": 960
+      },
+      "10": {
+        "time": -1,
+        "storage": 960
+      }
+    }
+  }
+}
