@@ -28,7 +28,7 @@ day = 1
 sql = "SELECT count(id) FROM bazaarupdate"
 cursor.execute(sql)
 totalUpdates = cursor.fetchone()[0]
-sql = "SELECT count(update_id) FROM bazaaritem"
+sql = "SELECT count(*) FROM bazaaritem"
 cursor.execute(sql)
 totalItems = cursor.fetchone()[0]
 
@@ -58,6 +58,7 @@ while yesterday2 >= begining:
             iBuy = row[4]
             SellO = row[5]
             BuyO = row[6]
+            # print(sql % (rowMin, iSell, iBuy, SellO, BuyO, update_id, item_id))
             cursor.execute(sql, (rowMin, iSell, iBuy, SellO, BuyO, update_id, item_id))
 
         sql = "DELETE FROM bazaarupdate WHERE id = %s"
@@ -89,19 +90,22 @@ print("Cleaning up...")
 sql = "SELECT MAX(id) FROM bazaarupdate"
 cursor.execute(sql)
 maxId = cursor.fetchone()[0]
-sql = "SET @i = 0"
+sql = "SELECT id FROM bazaarupdate AS A WHERE (SELECT id FROM bazaarupdate AS B WHERE B.id = A.id + 1) IS NULL ORDER BY id ASC LIMIT 1"
 cursor.execute(sql)
+minId = cursor.fetchone()[0]
+sql = "SET @i = %s"
+cursor.execute(sql, minId - 1)
 sql = "UPDATE bazaarupdate SET id=(@i := @i + 1) WHERE id BETWEEN %s AND %s"
-for i in range(0, maxId, 1000):
+for i in range(minId, maxId, 1000):
     print(f"{i}/{maxId}")
-    cursor.execute(sql, (i, i + 1000))
+    cursor.execute(sql, (i, i + 999))
 sql = "ALTER TABLE bazaarupdate AUTO_INCREMENT = 0"
 cursor.execute(sql)
 
 sql = "SELECT count(id) FROM bazaarupdate"
 cursor.execute(sql)
 totalUpdates = totalUpdates - cursor.fetchone()[0]
-sql = "SELECT count(update_id) FROM bazaaritem"
+sql = "SELECT count(*) FROM bazaaritem"
 cursor.execute(sql)
 totalItems = totalItems - cursor.fetchone()[0]
 
